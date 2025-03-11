@@ -1,3 +1,3 @@
 Hii There,
 
-<a href=test.jfif></a>
+<img src=test.jfif></img>
